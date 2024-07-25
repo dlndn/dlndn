@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Socratic Soul](https://github.com/dlndn/socratic-soul).
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently (re)learning **Python.**
 
-- 👯 I’m looking to collaborate on **any project!**
+- 👯 I’m looking to collaborate on **any interesting project!**
 
 - 🤝 I’m looking for help with **(software developer) career development.**
 
 - 💬 Ask me about **React, AI, and Mental Health!**
 
-- ⚡ Fun fact **I enjoy playing music (Ukulele or Guitar)!**
+- ⚡ Fun fact **I play my ukulele or guitar in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
