@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Aidan</h1>
-<h3 align="center">A curious full-stack developer from Canada</h3>
+<h1 align="center">Hi there, I'm Aidan!</h1>
+<h3 align="center">A curious full-stack developer 🖥️ from Canada 🍁</h3>
 
 - 🔭 I’m currently working on [Socratic Soul](https://github.com/dlndn/socratic-soul)
 
